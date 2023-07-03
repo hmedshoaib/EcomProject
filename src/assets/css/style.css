@@ -1,0 +1,5 @@
+.header {
+    background-color:blue;
+    /* background: linear-gradient(to right, rgb(0, 179, 255), rgb(4, 46, 253), rgb(15, 4, 33)) !important; */
+    height: 100px;
+}
