@@ -1,0 +1,123 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":2,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":3,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":4,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":5,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":6,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":7,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":8,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":9,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":10,
+            "name":"mi A3",
+            "color":"black",
+            "price":1500,
+            "category":"mobile",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":11,
+            "name":"hp",
+            "color":"grey",
+            "price":1500,
+            "category":"elitebook",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        },
+
+        {
+            "id":12,
+            "name":"mi A3",
+            "color":"red",
+            "price":1500,
+            "category":"laptop",
+            "brand":"Xiaomi",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFWEWfLCAYF2STY0qNgqo5dmIAoAyNgLB9vQGgkByg&s"
+        }
+    ]
+}
