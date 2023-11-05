@@ -1,0 +1,796 @@
+{
+  "maincategory": [
+    {
+      "id": 0,
+      "name": "Male"
+    },
+    {
+      "id": 1,
+      "name": "female"
+    },
+    {
+      "name": "Kids",
+      "id": 2
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0,
+      "name": "Jeans"
+    },
+    {
+      "id": 1,
+      "name": "T-Shirts"
+    },
+    {
+      "name": "Shirts",
+      "id": 2
+    },
+    {
+      "name": "Trouser",
+      "id": 3
+    }
+  ],
+  "brand": [
+    {
+      "id": 0,
+      "name": "Nike"
+    },
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Mufti",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Zara"
+    },
+    {
+      "id": 4,
+      "name": "Tommy-Hilfiger"
+    },
+    {
+      "name": "Polo",
+      "id": 5
+    },
+    {
+      "name": "Gucci",
+      "id": 6
+    }
+  ],
+  "product": [
+    {
+      "id": 2,
+      "name": "female-T-Shirts",
+      "maincategory": "female",
+      "subcategory": "T-Shirts",
+      "brand": "Nike",
+      "color": "Brown",
+      "size": "28",
+      "baseprice": 1200,
+      "discount": 12,
+      "finalprice": 1056,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-adhen-wijaya-kusuma-12820465.jpg",
+      "pic2": "pexels-cheik-abib-12512434.jpg",
+      "pic3": "pexels-cottonbro-studio-4066292.jpg",
+      "pic4": "pexels-ali-pazani-12513848.jpg"
+    },
+    {
+      "name": "female slim fit zeans",
+      "maincategory": "female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "white",
+      "size": "xxl",
+      "baseprice": 1200,
+      "discount": 12,
+      "finalprice": 1056,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-godisable-jacob-928000.jpg",
+      "pic2": "pexels-gabriela-pereira-1844132.jpg",
+      "pic3": "pexels-harsh-raj-gond-1485031.jpg",
+      "pic4": "pexels-apostolos-vamvouras-1578854.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Female jeans",
+      "maincategory": "female",
+      "subcategory": "Jeans",
+      "brand": "Tommy-Hilfiger",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 2500,
+      "discount": 12,
+      "finalprice": 2200,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-kristin-vogt-61120.jpg",
+      "pic2": "pexels-mica-asato-1082528.jpg",
+      "pic3": "pexels-matheus-bertelli-12446372.jpg",
+      "pic4": "pexels-apostolos-vamvouras-1578854.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Male jeans Mufti",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "xxl",
+      "baseprice": 3000,
+      "discount": 30,
+      "finalprice": 2100,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-andrea-colina-10857809.jpg",
+      "pic2": "pexels-mica-asato-1082526.jpg",
+      "pic3": "pexels-tan-danh-1129019.jpg",
+      "pic4": "pexels-karolina-grabowska-4210864.jpg"
+    },
+    {
+      "name": "Kids",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Black",
+      "size": "24",
+      "baseprice": 2000,
+      "discount": 20,
+      "finalprice": 1600,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-allan-mas-5623062.jpg",
+      "pic2": "pexels-amina-filkins-5560019.jpg",
+      "pic3": "pexels-amina-filkins-5560471.jpg",
+      "pic4": "pexels-anna-shvets-5325586.jpg",
+      "id": 6
+    },
+    {
+      "name": "Kids",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Red",
+      "size": "26",
+      "baseprice": 2500,
+      "discount": 25,
+      "finalprice": 1875,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-marina-abrosimova-8115603.jpg",
+      "pic2": "pexels-ksenia-chernaya-4740509.jpg",
+      "pic3": "pexels-ketut-subiyanto-4473563.jpg",
+      "pic4": "pexels-mickey-h-18493310.jpg",
+      "id": 7
+    },
+    {
+      "name": "Female Tshirt White Adidas",
+      "maincategory": "female",
+      "subcategory": "T-Shirts",
+      "brand": "Adidas",
+      "color": "yellow",
+      "size": "L",
+      "baseprice": 1200,
+      "discount": 3,
+      "finalprice": 1164,
+      "stock": "In Stock",
+      "description": "This is sample Product.",
+      "pic1": "pexels-alexandre-mattos-2325404.jpg",
+      "pic2": "pexels-cheik-abib-12512434.jpg",
+      "pic3": "pexels-julia-kuzenkov-1188748.jpg",
+      "pic4": "pexels-vie-studio-8148576.jpg",
+      "id": 8
+    },
+    {
+      "name": "Kids Tshirt Blue Polo",
+      "maincategory": "Kids",
+      "subcategory": "T-Shirts",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "S",
+      "baseprice": 2000,
+      "discount": 13,
+      "finalprice": 1740,
+      "stock": "In Stock",
+      "description": "This is sample Product",
+      "pic1": "pexels-allan-mas-5623062.jpg",
+      "pic2": "pexels-amina-filkins-5560471.jpg",
+      "pic3": "pexels-amina-filkins-5560019.jpg",
+      "pic4": "pexels-amina-filkins-5560019.jpg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Female-Trouser Black",
+      "maincategory": "female",
+      "subcategory": "Trouser",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "baseprice": 1000,
+      "discount": 23,
+      "finalprice": 770,
+      "stock": "In Stock",
+      "description": "This is sample Product.",
+      "pic1": "pexels-ana-ferreira-1895943.jpg",
+      "pic2": "pexels-tima-miroshnichenko-7202781.jpg",
+      "pic3": "pexels-ana-ferreira-1895943.jpg",
+      "pic4": "pexels-megan-ruth-11411290.jpg"
+    },
+    {
+      "name": "Female jeans Rpped",
+      "maincategory": "female",
+      "subcategory": "Jeans",
+      "brand": "Tommy-Hilfiger",
+      "color": "grey",
+      "size": "32",
+      "baseprice": 1200,
+      "discount": 3,
+      "finalprice": 1164,
+      "stock": "outofstock",
+      "description": "This is sample Product.",
+      "pic1": "pexels-cottonbro-studio-4505458.jpg",
+      "pic2": "pexels-wesley-souza-2068349.jpg",
+      "pic3": "pexels-godisable-jacob-949670.jpg",
+      "pic4": "pexels-pixabay-65676.jpg",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Male Tshirt White Polo",
+      "maincategory": "Male",
+      "subcategory": "T-Shirts",
+      "brand": "Polo",
+      "color": "white",
+      "size": "L",
+      "baseprice": 1201,
+      "discount": 36,
+      "finalprice": 768,
+      "stock": "In Stock",
+      "description": "This is sample product",
+      "pic1": "pexels-tan-danh-1129019.jpg",
+      "pic2": "pexels-daria-liudnaya-8187696.jpg",
+      "pic3": "pexels-daka-13517000.jpg",
+      "pic4": "pexels-matheus-bertelli-12446409.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Yahya",
+      "username": "Y_Ahmed",
+      "email": "y_ahmed@gmail.com",
+      "phone": "08804500780",
+      "password": "12345",
+      "addressline1": "Abgila",
+      "addressline2": "Yunus Colony",
+      "addressline3": "Manpur",
+      "city": "Gaya",
+      "state": "Bihar",
+      "pin": "823003",
+      "pic": "IMG_20230911_164419140.jpg",
+      "role": "Admin"
+    },
+    {
+      "name": "Noman",
+      "username": "N_Ahmed",
+      "email": "n_ahmed@gmail.com",
+      "phone": "08804500780",
+      "password": "123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "city": "",
+      "state": "",
+      "pin": "",
+      "pic": "",
+      "role": "User",
+      "id": 2
+    },
+    {
+      "name": "Humaid",
+      "username": "H_Ahmed",
+      "email": "h_ahmed@gmail.com",
+      "phone": "08804500780",
+      "password": "qaz",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "city": "",
+      "state": "",
+      "pin": "",
+      "pic": "",
+      "role": "User",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "productid": 11,
+      "userid": "1",
+      "name": "Female jeans Rpped",
+      "color": "grey",
+      "size": "32",
+      "price": 1164,
+      "qty": 2,
+      "totalprice": 2328,
+      "pic": "pexels-cottonbro-studio-4505458.jpg",
+      "id": 1
+    },
+    {
+      "productid": 10,
+      "userid": "1",
+      "name": "Female-Trouser Black",
+      "color": "Black",
+      "size": "L",
+      "price": 770,
+      "qty": 1,
+      "totalprice": 770,
+      "pic": "pexels-ana-ferreira-1895943.jpg",
+      "id": 2
+    },
+    {
+      "productid": 11,
+      "userid": null,
+      "name": "Female jeans Rpped",
+      "color": "grey",
+      "size": "32",
+      "price": 1164,
+      "qty": 1,
+      "totalprice": 1164,
+      "pic": "pexels-cottonbro-studio-4505458.jpg",
+      "id": 3
+    }
+  ],
+  "wishlist": [
+    {
+      "productid": 12,
+      "userid": "1",
+      "name": "Male Tshirt White Polo",
+      "color": "white",
+      "size": "L",
+      "price": 768,
+      "pic": "pexels-tan-danh-1129019.jpg",
+      "id": 10
+    },
+    {
+      "productid": 8,
+      "userid": "1",
+      "name": "Female Tshirt White Adidas",
+      "color": "yellow",
+      "size": "L",
+      "price": 1164,
+      "pic": "pexels-alexandre-mattos-2325404.jpg",
+      "id": 11
+    },
+    {
+      "productid": 5,
+      "userid": "1",
+      "name": "Male jeans Mufti",
+      "color": "Black",
+      "size": "xxl",
+      "price": 2100,
+      "pic": "pexels-andrea-colina-10857809.jpg",
+      "id": 12
+    },
+    {
+      "productid": 11,
+      "userid": "1",
+      "name": "Female jeans Rpped",
+      "color": "grey",
+      "size": "32",
+      "price": 1164,
+      "pic": "pexels-cottonbro-studio-4505458.jpg",
+      "id": 13
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-10-17T07:55:08.806Z",
+      "totalAmount": 19929,
+      "shippingAmount": 0,
+      "finalAmount": 19929,
+      "producs": [
+        {
+          "productid": 11,
+          "userid": "1",
+          "name": "Female jeans Rpped",
+          "color": "grey",
+          "size": "32",
+          "price": 1164,
+          "qty": 1,
+          "totalprice": 1164,
+          "pic": "pexels-cottonbro-studio-4505458.jpg",
+          "id": 10
+        },
+        {
+          "productid": 4,
+          "userid": "1",
+          "name": "Female jeans",
+          "color": "Black",
+          "size": "32",
+          "price": 2200,
+          "qty": 1,
+          "totalprice": 2200,
+          "pic": "pexels-kristin-vogt-61120.jpg",
+          "id": 12
+        },
+        {
+          "productid": 10,
+          "userid": "1",
+          "name": "Female-Trouser Black",
+          "color": "Black",
+          "size": "L",
+          "price": 770,
+          "qty": 1,
+          "totalprice": 770,
+          "pic": "pexels-ana-ferreira-1895943.jpg",
+          "id": 13
+        },
+        {
+          "productid": 7,
+          "userid": "1",
+          "name": "Kids",
+          "color": "Red",
+          "size": "26",
+          "price": 1875,
+          "qty": 1,
+          "totalprice": 1875,
+          "pic": "pexels-marina-abrosimova-8115603.jpg",
+          "id": 14
+        },
+        {
+          "productid": 9,
+          "userid": "1",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "S",
+          "price": 1740,
+          "qty": 8,
+          "totalprice": 13920,
+          "pic": "pexels-allan-mas-5623062.jpg",
+          "id": 15
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-18T10:50:16.548Z",
+      "totalAmount": 19929,
+      "shippingAmount": 0,
+      "finalAmount": 19929,
+      "producs": [
+        {
+          "productid": 11,
+          "userid": "1",
+          "name": "Female jeans Rpped",
+          "color": "grey",
+          "size": "32",
+          "price": 1164,
+          "qty": 1,
+          "totalprice": 1164,
+          "pic": "pexels-cottonbro-studio-4505458.jpg",
+          "id": 10
+        },
+        {
+          "productid": 4,
+          "userid": "1",
+          "name": "Female jeans",
+          "color": "Black",
+          "size": "32",
+          "price": 2200,
+          "qty": 1,
+          "totalprice": 2200,
+          "pic": "pexels-kristin-vogt-61120.jpg",
+          "id": 12
+        },
+        {
+          "productid": 10,
+          "userid": "1",
+          "name": "Female-Trouser Black",
+          "color": "Black",
+          "size": "L",
+          "price": 770,
+          "qty": 1,
+          "totalprice": 770,
+          "pic": "pexels-ana-ferreira-1895943.jpg",
+          "id": 13
+        },
+        {
+          "productid": 7,
+          "userid": "1",
+          "name": "Kids",
+          "color": "Red",
+          "size": "26",
+          "price": 1875,
+          "qty": 1,
+          "totalprice": 1875,
+          "pic": "pexels-marina-abrosimova-8115603.jpg",
+          "id": 14
+        },
+        {
+          "productid": 9,
+          "userid": "1",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "S",
+          "price": 1740,
+          "qty": 8,
+          "totalprice": 13920,
+          "pic": "pexels-allan-mas-5623062.jpg",
+          "id": 15
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-18T10:54:40.363Z",
+      "totalAmount": 13920,
+      "shippingAmount": 0,
+      "finalAmount": 13920,
+      "producs": [
+        {
+          "productid": 9,
+          "userid": "1",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "S",
+          "price": 1740,
+          "qty": 8,
+          "totalprice": 13920,
+          "pic": "pexels-allan-mas-5623062.jpg",
+          "id": 15
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-18T10:55:51.148Z",
+      "totalAmount": 1164,
+      "shippingAmount": 0,
+      "finalAmount": 1164,
+      "producs": [
+        {
+          "productid": 11,
+          "userid": "1",
+          "name": "Female jeans Rpped",
+          "color": "grey",
+          "size": "32",
+          "price": 1164,
+          "qty": 1,
+          "totalprice": 1164,
+          "pic": "pexels-cottonbro-studio-4505458.jpg",
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-20T10:24:03.593Z",
+      "totalAmount": 4636,
+      "shippingAmount": 0,
+      "finalAmount": 4636,
+      "producs": [
+        {
+          "productid": 11,
+          "userid": "1",
+          "name": "Female jeans Rpped",
+          "color": "grey",
+          "size": "32",
+          "price": 1164,
+          "qty": 2,
+          "totalprice": 2328,
+          "pic": "pexels-cottonbro-studio-4505458.jpg",
+          "id": 1
+        },
+        {
+          "productid": 12,
+          "userid": "1",
+          "name": "Male Tshirt White Polo",
+          "color": "white",
+          "size": "L",
+          "price": 768,
+          "qty": 1,
+          "totalprice": 768,
+          "pic": "pexels-tan-danh-1129019.jpg",
+          "id": 2
+        },
+        {
+          "productid": 10,
+          "userid": "1",
+          "name": "Female-Trouser Black",
+          "color": "Black",
+          "size": "L",
+          "price": 770,
+          "qty": 2,
+          "totalprice": 1540,
+          "pic": "pexels-ana-ferreira-1895943.jpg",
+          "id": 3
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-20T10:41:07.569Z",
+      "totalAmount": 6078,
+      "shippingAmount": 0,
+      "finalAmount": 6078,
+      "producs": [
+        {
+          "productid": 8,
+          "userid": "1",
+          "name": "Female Tshirt White Adidas",
+          "color": "yellow",
+          "size": "L",
+          "price": 1164,
+          "qty": 2,
+          "totalprice": 2328,
+          "pic": "pexels-alexandre-mattos-2325404.jpg",
+          "id": 1
+        },
+        {
+          "productid": 7,
+          "userid": "1",
+          "name": "Kids",
+          "color": "Red",
+          "size": "26",
+          "price": 1875,
+          "qty": 2,
+          "totalprice": 3750,
+          "pic": "pexels-marina-abrosimova-8115603.jpg",
+          "id": 2
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "order placed",
+      "paymentstatus": "pending",
+      "time": "2023-10-20T10:42:57.000Z",
+      "totalAmount": 2328,
+      "shippingAmount": 0,
+      "finalAmount": 2328,
+      "producs": [
+        {
+          "productid": 11,
+          "userid": "1",
+          "name": "Female jeans Rpped",
+          "color": "grey",
+          "size": "32",
+          "price": 1164,
+          "qty": 1,
+          "totalprice": 1164,
+          "pic": "pexels-cottonbro-studio-4505458.jpg",
+          "id": 1
+        },
+        {
+          "productid": 8,
+          "userid": "1",
+          "name": "Female Tshirt White Adidas",
+          "color": "yellow",
+          "size": "L",
+          "price": 1164,
+          "qty": 1,
+          "totalprice": 1164,
+          "pic": "pexels-alexandre-mattos-2325404.jpg",
+          "id": 2
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "contact": [
+    {
+      "name": "Yahya",
+      "email": "y_ahmed@gmail.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "Checked",
+      "status": "Active",
+      "data": "2023-10-19T04:34:24.313Z",
+      "id": 1
+    },
+    {
+      "name": "Yahya Ahmed",
+      "email": "y_ahmed2@gmail.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "Checked",
+      "status": "Active",
+      "data": "2023-10-19T04:34:24.313Z",
+      "id": 2
+    },
+    {
+      "name": "Noman",
+      "email": "n_ahmed@gmail.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "Checked",
+      "status": "Active",
+      "data": "2023-10-19T04:34:24.313Z",
+      "id": 3
+    },
+    {
+      "name": "Ahmed",
+      "email": "a_ahmed@gmail.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "Checked",
+      "status": "Done",
+      "data": "2023-10-19T04:34:24.313Z",
+      "id": 5
+    },
+    {
+      "name": "Ahmed1",
+      "email": "ahmed@gmial.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "qwerty",
+      "status": "Done",
+      "data": "2023-10-19T04:36:42.319Z",
+      "id": 6
+    },
+    {
+      "name": "Noman1",
+      "email": "noman@gmial.com",
+      "phone": "08804500780",
+      "subject": "How many brand do you have",
+      "message": "qwerty",
+      "status": "Active",
+      "data": "2023-10-19T04:36:42.319Z",
+      "id": 7
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "y_ahmed@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "ahmed@gmial.com",
+      "id": 2
+    }
+  ]
+}
